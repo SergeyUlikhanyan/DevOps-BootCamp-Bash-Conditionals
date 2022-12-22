@@ -8,7 +8,7 @@ symbolCount=0
 
 letter="[a-zA-Z]"
 number="[0-9]"
-symbols="+_!@#{}*-=~?/\|$%^&()"
+symbols="!@#$%^&()_+"
 
 
 for (( i=0; i<${#input}; i++ ))
